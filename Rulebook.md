@@ -165,7 +165,7 @@ Forfeiting matches or withdrawing will also result in forfeiture of any Prize Mo
 
 # 4.1 Participation in UKIC Masters
 
-## 3.1 Player & Team Eligibility
+## 4.1 Player & Team Eligibility
 
 ### 4.1.1  Player Eligibility
 
