@@ -1,4 +1,4 @@
-This rulebook governs Season 8 of the UK & Ireland Circuit. All players who compete in the UK & Ireland Circuit agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
+This rulebook governs Season 9 of the UK & Ireland Circuit. All players who compete in the UK & Ireland Circuit agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
 
 For contact purposes please join the: [UK & Ireland Circuit Discord](https://ukicircuit.com/league)
 
