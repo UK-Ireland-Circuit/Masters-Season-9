@@ -60,7 +60,7 @@ If a team requires a stand-in for a qualifier, the stand-in must be registered a
 
 - Invite Publication: N/A
 - Seeding: 
-    - Valve Regional Standings for Europe as of January 2026
+    - [Valve Regional Standings for Europe as of January 5th 2026](https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/invitation/2026/standings_europe_2026_01_05.md)
     - UKIC Season 8 Placements
     - NUSELO UK Rankings
 - Location:
