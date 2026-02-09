@@ -7,11 +7,11 @@
 
 | Seed | Team | VRS [EU] | UKIC S8 | AVG ELO |
 |------|------|----------|---------|---------|
-| 1 | Washington | 117 | Masters 1st | 3486 |
+| 1 | The Last Resort | 117 | Masters 1st | 3486 |
 | 2 | 8Sins | 129 | Masters 2nd | 3353.6 |
 | 3 | Square Sausages | 143 | Masters T6 | 3040.8 |
 | 4 | Coalesce | | Masters T4 | 3296.4 |
-| 5 | TLR | | Premier 2nd | 3310.2 |
+| 5 | CTRL | | Premier 2nd | 3310.2 |
 | 6 | BUFF3D-UP | | | 3230 |
 | 7 | tokyo54 | | | 3137.4 |
 | 8 | Unconfirmed | | | 3060 |
